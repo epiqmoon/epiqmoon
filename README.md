@@ -33,8 +33,10 @@
 </br>
 
 <p align="center">
-<img href="https://www.gifcen.com/gif/never-gonna-give-you-up/" target="_blank"><img
-src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+
+<a href="https://www.gifcen.com/gif/never-gonna-give-you-up/" target="_blank">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+</a>
 </p>
 
 </br>
