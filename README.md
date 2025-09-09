@@ -103,7 +103,7 @@
 <p align="center" >  
   <img src="https://github-readme-stats.vercel.app/api?username=epiqmoon&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="epiqmoon's GitHub Stats" />
   &nbsp &nbsp
-  <img src="https://streak-stats.demolab.com?user=epiqmoon&theme=radical&hide_border=false" alt="epiqmoon's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=epiqmoon&theme=radical&hide_border=false" width="493" alt="epiqmoon's GitHub Stats" />
 
 </br>
 </br>
