@@ -1,6 +1,5 @@
 
 
-
 <p align="center">
   <img alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F1381e7efe6f57ac21773bbf337a0b931%2Ftenor.gif%253fitemid%253d9893777&f=1&nofb=1&ipt=a6b9b0b5ba2d53378084bb79d32e04142d101207b95be508b181d48b74fcc258">
 </p>
@@ -133,7 +132,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 <p align="center">
-<a href="https://x.com/snoovocz?t=Vg2Bv9FwbQhuGVaqQnaUNg&s=09" target="_blank"><img src="https://img.shields.io/badge/x-%235865F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
+<a href="https://x.com/snoovocz?t=Vg2Bv9FwbQhuGVaqQnaUNg&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-%235865F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="x"></a>
 <a href="mailto:Dipvpn465@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.instagram.com/snoovocz?igsh=YXBpeWN0c3U0MXFi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 
