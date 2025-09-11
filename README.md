@@ -113,9 +113,9 @@
 </br>
 
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
-<img alt="followers" src="https://img.shields.io/github/followers/epiqmoon?label=Followers&style=social">
-<img src="https://img.shields.io/github/stars/epiqmoon?label=Stars" alt="stars">
-<img src="https://komarev.com/ghpvc/?username=epiqmoon&color=brightgreen" alt="watching_count" />
+<img alt="followers" src="https://img.shields.io/github/followers/snoovocz?label=Followers&style=social">
+<img src="https://img.shields.io/github/stars/snoovocz?label=Stars" alt="stars">
+<img src="https://komarev.com/ghpvc/?username=snoovocz&color=brightgreen" alt="watching_count" />
 
 </p>
 
@@ -133,9 +133,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 <p align="center">
-<a href="https://boulderbugle.com/0gXwUv9g" target="_blank"><img src="https://img.shields.io/badge/Twitter-%235865F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Bluesky"></a>
+<a href="https://x.com/snoovocz?t=Vg2Bv9FwbQhuGVaqQnaUNg&s=09" target="_blank"><img src="https://img.shields.io/badge/x-%235865F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="x"></a>
 <a href="mailto:Dipvpn465@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.instagram.com/epiqmoon?igsh=YXBpeWN0c3U0MXFi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/snoovocz?igsh=YXBpeWN0c3U0MXFi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
 
 </br>
 </p>
