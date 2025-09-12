@@ -1,7 +1,7 @@
 
-<p align="center">
+<div align="center">
   <img alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F63%2Fd3%2Fa2%2F63d3a25287a536bfed0d240cc4be7368.jpg&f=1&nofb=1&ipt=59f5aafaef5fd2cd88f14cc5e22e237efbcaa6959420b32d9e08f5a87e0b8ccd">
-</p>
+</div>
 
 <br>
 
