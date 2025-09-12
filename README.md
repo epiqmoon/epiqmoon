@@ -1,12 +1,5 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=sans&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+snoovocz+🗿;" />
-</h1>
-
-</br>
-</br>
-  
 <p align="center">
-  <img alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F1381e7efe6f57ac21773bbf337a0b931%2Ftenor.gif%253fitemid%253d9893777&f=1&nofb=1&ipt=6f8714e3c85cae0da34ee9ab9a48a9044a77d25e446d2feb8687d0958b6370c2">
+  <img alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F63%2Fd3%2Fa2%2F63d3a25287a536bfed0d240cc4be7368.jpg&f=1&nofb=1&ipt=59f5aafaef5fd2cd88f14cc5e22e237efbcaa6959420b32d9e08f5a87e0b8ccd">
 </p>
 
 </br>
@@ -18,10 +11,10 @@
 ### ~ Learning :
 
 - New development structures
-- Opengl & C++ systems
-- Rust systems
+- Opengl & C++ logics
+- Rust frameworks
 - Embedded systems
-- New electronic systems
+- pcb development
   
 ### ~ Hobbies : 
 
