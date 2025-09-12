@@ -1,7 +1,12 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=sans&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+snoovocz+🗿;" />
+</h1>
 
-
+</br>
+</br>
+  
 <p align="center">
-  <img alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F1381e7efe6f57ac21773bbf337a0b931%2Ftenor.gif%253fitemid%253d9893777&f=1&nofb=1&ipt=a6b9b0b5ba2d53378084bb79d32e04142d101207b95be508b181d48b74fcc258">
+  <img alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F1381e7efe6f57ac21773bbf337a0b931%2Ftenor.gif%253fitemid%253d9893777&f=1&nofb=1&ipt=6f8714e3c85cae0da34ee9ab9a48a9044a77d25e446d2feb8687d0958b6370c2">
 </p>
 
 </br>
@@ -100,12 +105,12 @@
 </br>
 </a>
 
+<div align=center>
+  <img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=snoovocz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</br>
+  <img width=450 src="https://github-readme-stats-salesp07.vercel.app/api?username=snoovocz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-<p align="center" >  
-  <img src="https://github-readme-stats.vercel.app/api?username=snoovocz&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="snoovocz's GitHub Stats" />
-</br>
-</br>
-  <img src="https://streak-stats.demolab.com?user=snoovocz&theme=radical&hide_border=false" width="465" height="450" alt="snoovocz's GitHub Stats" />
+
 
 </br>
 </br>
@@ -116,7 +121,7 @@
 <img src="https://img.shields.io/github/stars/snoovocz?label=Stars" alt="stars">
 <img src="https://komarev.com/ghpvc/?username=snoovocz&color=brightgreen" alt="watching_count" />
 
-</p>
+</div>
 
 </br>
 </br>
