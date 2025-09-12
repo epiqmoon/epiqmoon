@@ -1,6 +1,7 @@
+<div>
 
 <div align="center">
-  <img alt="GIF" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F63%2Fd3%2Fa2%2F63d3a25287a536bfed0d240cc4be7368.jpg&f=1&nofb=1&ipt=59f5aafaef5fd2cd88f14cc5e22e237efbcaa6959420b32d9e08f5a87e0b8ccd">
+  <img alt="IMG" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F63%2Fd3%2Fa2%2F63d3a25287a536bfed0d240cc4be7368.jpg&f=1&nofb=1&ipt=59f5aafaef5fd2cd88f14cc5e22e237efbcaa6959420b32d9e08f5a87e0b8ccd">
 </div>
 
 <br>
@@ -59,7 +60,9 @@
 <img src="ttps://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
 <br>
+
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
@@ -78,7 +81,9 @@
 <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Tauri-02569B?style=for-the-badge&logo=tauri&logoColor=white">
+
 <br>
+
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
@@ -138,4 +143,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br>
 </p>
 </p>
+</div>
 
